@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Full Stack Web projects
-- 🌱 I’m currently learning Android Development and Kotlin
-- 💬 Ask me about my progress on my AWS SA certification
+- 🔭 I’m currently working as a Junior Software Dev 
+- 🌱 I’m currently learning Parallel Programming and GCP
+- 💬 Ask me about learning Vue.js
 - ⚡ Fun fact: I love competative swimming and rock climbing
